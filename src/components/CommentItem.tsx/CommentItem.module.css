@@ -1,0 +1,15 @@
+.CommentItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 50vw;
+  margin: 2rem auto;
+  border-bottom: 1px solid black;
+}
+
+.CommentItem span {
+  border: 1px solid black;
+  padding: .5rem;
+  cursor: pointer;
+  border-radius: 4px;
+}
